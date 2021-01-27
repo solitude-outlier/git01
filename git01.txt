@@ -1,0 +1,10 @@
+# include <iostream>
+using namespace std;
+ int main()
+ {
+ 	string m;
+ 	m="hello world!";
+ 	cout<<m<<endl;
+                m="hello C++";
+    	cout<<m<<endl;
+ }
